@@ -3,7 +3,7 @@ Tim Meijvogel
 S3 DB01
 
 
-#Inhoudsopgave
+# Inhoudsopgave
 
 Context    
 wat is elo?    

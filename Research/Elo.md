@@ -3,7 +3,7 @@ Tim Meijvogel
 S3 DB01
 
 
-Inhoudsopgave
+#Inhoudsopgave
 
 Context    
 wat is elo?    
@@ -11,10 +11,10 @@ waarom gebruiken games elo?
 hoe beïnvloedt elo een game?    
 Wat zijn de nadelen van het elo systeem?    
 Conclusie    
+Bronnen
 
 
-
-Context
+#Context
 Ik ga een onderzoek doen dat te maken heeft met elo. dit ga ik doen omdat, ik voor mijn individuele project een pvp game wil maken.
 voor nu is de gedachte om het 1 tegen 1 te maken, maar de mogelijkheid om een team modus toe te voegen bestaat. Ik wil weten of het
 elo systeem dan nog steeds geschikt zou zijn of dat het aangepast moet worden. een andere reden is dat ik zelf als jarenlang games 
@@ -22,7 +22,7 @@ speel met een elo rank/systeem en ik een klein verschil  heb gemerkt in de manie
 in de spellen.
 
 
-wat is elo?
+#wat is elo?
 Het elo systeem is een wiskundige systeem dat is gebaseerd op de methode van Pairwise comparison, dit is een proces waarbij kandidaten 
 in paren worden vergeleken om te beoordelen welke van elke kandidaat in het algemeen de hoogste kans heeft om te winnen.
 
@@ -32,7 +32,7 @@ aanwezig zijn. Elke keer dat een speler wint zal zijn score hoger worden en elke
 bij gelijkspel verandert er niets.
 
 
-waarom gebruiken games elo?
+#waarom gebruiken games elo?
 Een elo rating wordt dus gebruikt om te zien welke speler de hoogste kans heeft om een match te winnen, dus waarom zouden video games een 
 elo systeem gebruiken? Wanneer games een elo systeem gebruiken kunnen spelers van eenzelfde skill level tegen elkaar worden gezet. Op deze
 manier krijg je eerlijke matches. Wanneer een speler blijft winnen wordt zijn rating hoger, tot de speler op een niveau komt waarbij hij 
@@ -40,8 +40,7 @@ tegen spelers komt die ongeveer even goed zijn als hem. Daarnaast is het voor co
 te baseren. Team games creëren hun eigen methode om de elo  
 
 
-
-Hoe beïnvloedt elo een game?
+#Hoe beïnvloedt elo een game?
 Elo beïnvloed een game op meer dan een manier, de meest bekende/opvallende manier is matchmaking. Het elo systeem in games zorgt samen met 
 matchmaking dat je tegen andere spelers komt die ongeveer even goed zullen zijn als dat jij bent. Ook beïnvloed elo je player base. Een van 
 de manieren waarop elo je playerbase beïnvloed is de manier waarop je spel wordt gespeeld, een deel van de playerbase zal proberen hun rank/elo 
@@ -54,7 +53,7 @@ spelers van een hoog niveau tegen spelers van een lager niveau kunnen spelen. Di
 te verliezen. Dit beïnvloedt de spelers in een game en kan zorgen voor een slechte reputatie.
 
 
-Wat voor een systeem zou ik graag zien?
+#Wat voor een systeem zou ik graag zien?
 Voor mijn game zou ik het belangrijk vinden dat wanneer je wint, je score omhoog gaat, wanneer je verliest je score omlaag gaat. Je moet meer elo 
 krijgen wanneer je wint van iemand met een hogere rang, en dus meer verliezen wanneer je van iemand verliest die een veel lagere rank heeft dan jij. 
 De reden hiervoor is dat wanneer je gelijk kunt spelen met iemand van een hogere rank, zit de speler miss op een level dat te laag voor hem zou zijn, 
@@ -70,7 +69,7 @@ Ook wil ik zorgen dat een speler die veel impact heeft op het team meer wordt be
 wanneer de match gewonnen is, of verliest die minder wanneer de match verloren is. Dit zou een variatie van het MMR systeem zijn.
 
 
-Conclusie
+#Conclusie
 Dus welke variatie van het elo systeem is geschikt voor mijn game?
 Wanneer ik mijn game een 1 tegen 1 game zou laten ik het elo systeem zoals het is niet zou gebruiken. Ik zou in dit scenario een kleine aanpassing maken 
 waardoor er bij een gelijkspel er een mogelijkheid is om elo te krijgen/verliezen. Wanneer het spel uitgebreid zou worden naar een game waar het mogelijk 
@@ -84,7 +83,7 @@ De volgende keer dat ik een game zal maken zal ik me houden aan de regels die ik
 blijkt te zijn. 
 
 
-Bronnen
+#Bronnen
 Generale informatie over elo:
 https://dotesports.com/general/news/elo-ratings-explained-20565
 
